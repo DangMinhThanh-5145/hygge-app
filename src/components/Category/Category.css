@@ -1,0 +1,28 @@
+.categories-container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 10px;
+}
+
+.categories-content {
+    display: flex;
+    margin: 40px;
+    color: #FFFFFF;
+}
+
+.content-container {
+    background-color: #F6F4FB;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    margin-left: 50px;
+    color: black
+}
+
+.content-container img {
+    margin: 5px;
+    padding: 5px;
+}

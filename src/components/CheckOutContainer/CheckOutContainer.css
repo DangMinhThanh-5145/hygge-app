@@ -1,0 +1,23 @@
+.check-out-container {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.check-out-details-container {
+    background-color: #F6F7FB;
+    width: 600px;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #F6F7FB;
+    border-radius: 10px;
+}
+
+.check-out-cart-container {
+    background-color: #F6F7FB;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #F6F7FB;
+}

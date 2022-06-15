@@ -1,0 +1,32 @@
+.shopping-cart-container {
+    margin: 10px;
+    padding: 10px;
+}
+
+.cart-header {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.product {
+    display: flex;
+    margin-left: 140px;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+.product .product-item {
+    background-color: #F6F7FB;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.product .cart-total {
+    background-color: #F6F7FB;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 40px;
+    width: 300px;
+}

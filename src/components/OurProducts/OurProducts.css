@@ -1,0 +1,15 @@
+.newest-product-container {
+    background-color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+}
+
+.newest-product-container {
+    display: flex;
+    margin: 5px;
+    flex-wrap: wrap;
+}
+
+.newest-product-button-style {
+    margin-left: 650px;
+}

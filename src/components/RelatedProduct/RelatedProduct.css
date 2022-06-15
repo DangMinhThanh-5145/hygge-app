@@ -1,0 +1,19 @@
+.related-product-container {
+    margin: 5px;
+    padding: 5px;
+}
+
+.related-product-container .header {
+    display: flex;
+}
+
+.related-product-list {
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.related-product-container .group-button {
+    margin-top: 100px;
+    margin-left: 800px;
+}

@@ -1,0 +1,25 @@
+.nav-container {
+    background-color: #F6F7FB;
+    height: 600px;
+    width: 1348px;
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 80px;
+    position: relative;
+}
+
+.nav-button-style {
+    margin-left: 50px;
+}
+
+.nav-image {
+    height: 596px;
+    width: 768px;
+    background-color: bisque;
+    border-radius: 20px;
+    position: absolute;
+    right: 2px;
+    top: 1px;
+    bottom: 1px;
+}

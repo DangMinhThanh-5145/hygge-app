@@ -1,0 +1,17 @@
+.newsletter-container {
+    background-color: #F6F7FB;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.newsletter-from {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    margin-left: 400px;
+}
+
+.news-style {
+    text-align: center;
+}

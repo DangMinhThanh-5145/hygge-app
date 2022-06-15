@@ -1,0 +1,49 @@
+.details-form-container {
+    margin: 10px;
+    padding: 10px;
+}
+
+.details-form-container h1 {
+    margin: 5px;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#AED6F1, #21618C, #D7BDE2);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.details-form-container p {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 100;
+    color: #1A202C;
+}
+
+.login-button {
+    background-color: #00CC96;
+    height: 54px;
+    width: 450px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid #00CC96;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 15px;
+}
+
+.guest-checkout {
+    background-color: #F5F5F5;
+    height: 54px;
+    width: 450px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    border: 0.5px solid grey;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}

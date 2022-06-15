@@ -1,0 +1,15 @@
+.cate-product-container {
+    background-color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+}
+
+.cate-product-container {
+    display: flex;
+    margin: 5px;
+    flex-wrap: wrap;
+}
+
+.cate-product-button-style {
+    margin-left: 650px;
+}

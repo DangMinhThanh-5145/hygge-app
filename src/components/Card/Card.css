@@ -1,0 +1,21 @@
+.card-container{
+    margin: 50px;
+    padding: 20px;
+}
+.card-avatar-style{
+    height: 60px;
+    width: 60px;
+    background-color: #F6F7FB;
+    border-radius: 30px;
+    border: 1px solid #00CC96;
+}
+.card-title-style{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.card-reviews-style{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,22 @@
+.our-review-container {
+    margin: 5px;
+    padding: 5px;
+    background-color: #F6F7FB;
+    display: flex;
+}
+
+.our-review-title-content {
+    margin: 50px;
+    padding: 5px;
+}
+
+.review-content {
+    /* background-color: #2975FF; */
+    margin: 10px;
+    padding: 10 px;
+    height: 400px;
+    width: 800px;
+}
+.review-button-style{
+    margin-left: 40px;
+}

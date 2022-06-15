@@ -1,0 +1,32 @@
+.footer-items-title-container {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+}
+
+.fti-title-style {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: -webkit-linear-gradient(#AED6F1, #21618C);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fti-sub-style {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fti-list-icon {
+    display: flex;
+    justify-content: center;
+}
+
+.fti-list-icon img {
+    margin: 15px;
+}

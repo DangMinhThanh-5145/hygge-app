@@ -1,0 +1,19 @@
+.product-features {
+    margin: 50px;
+    padding: 5px;
+    display: flex;
+}
+
+.product-features .left-content {
+    margin: 18px;
+    padding: 5px;
+    height: 500px;
+    width: 650px;
+}
+
+.product-features .right-content {
+    margin: 18px;
+    padding: 5px;
+    height: 500px;
+    width: 650px;
+}

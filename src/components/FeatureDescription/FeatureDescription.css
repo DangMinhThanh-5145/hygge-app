@@ -1,0 +1,30 @@
+.feature-des-container {
+    display: flex;
+    margin: 15px;
+    padding: 15px;
+    background-color: #F6F7FB;
+    border-radius: 10px;
+}
+
+.fea-des-img-container {
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    background-color: #F6F7FB;
+    margin: 10px;
+}
+
+.fea-des-img-container img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.feature-des-container h5 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.feature-des-container h6 {
+    font-size: 12px;
+    font-weight: bold;
+}

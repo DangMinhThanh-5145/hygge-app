@@ -1,0 +1,15 @@
+.blog-container {
+    margin: 5px;
+    padding: 5px;
+    background-color: #FFFFFF;
+}
+
+.blog-item-content {
+    display: flex;
+}
+
+.blog-button-style {
+    margin-left: 660px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

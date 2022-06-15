@@ -1,0 +1,16 @@
+.title-container {
+    margin: 30px;
+    padding: 30px;
+}
+
+.title-style {
+    color: #2975FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sub-title-style {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

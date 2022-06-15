@@ -1,0 +1,13 @@
+.text-filed-container {
+    height: 44px;
+    width: 448px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 33px;
+    font-family: 'Lato', sans-serif;
+    outline: none;
+    border: 0.5px solid grey;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
